@@ -1,2 +1,2 @@
 # simple-quiz-app
-simple quiz app using API 
+nothing special a simple quiz app you can alias it with your terminal 
